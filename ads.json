@@ -1,1 +1,18 @@
-{}
+{
+    "local-gluu": {
+        "projectName": "local-gluu",
+        "description": "local",
+        "type": "community",
+        "author": "tejaswigk",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/tejaswigk/gluu-local",
+        "githubUri": "https://github.com/tejaswigk/gluu-local",
+        "license": "apache-2.0",
+        "lastUpdated": "1700771679847",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
